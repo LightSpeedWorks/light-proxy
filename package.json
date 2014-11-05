@@ -4,8 +4,8 @@
   "description": "light proxy server",
   "main": "light-proxy.js",
   "dependencies": {
-    "date-time-string": ">=0.0.3",
-    "log-manager": ">=0.0.2"
+    "date-time-string": ">=0.0.4",
+    "log-manager": ">=0.0.5"
   },
   "keywords": [
     "proxy"
