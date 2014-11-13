@@ -1,24 +1,25 @@
 {
-  "name": "light-proxy",
+  "name": "proxy-light",
   "version": "0.0.0",
   "description": "light proxy server",
-  "main": "light-proxy.js",
+  "main": "lib/proxy-light.js",
+  "private": true,
   "dependencies": {
     "date-time-string": ">=0.0.4",
     "log-manager": ">=0.0.5"
   },
   "keywords": [
-    "proxy"
+    "proxy", "proxy-server"
   ],
   "author": "LightSpeedC",
   "license": "MIT",
-  "homepage": "https://github.com/LightSpeedWorks/light-proxy",
+  "homepage": "https://github.com/LightSpeedWorks/proxy-light",
   "bugs": {
-    "url": "https://github.com/LightSpeedWorks/light-proxy/issues"
+    "url": "https://github.com/LightSpeedWorks/proxy-light/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LightSpeedWorks/light-proxy"
+    "url": "https://github.com/LightSpeedWorks/proxy-light"
   },
   "scripts": {
     "test": "start-test"
