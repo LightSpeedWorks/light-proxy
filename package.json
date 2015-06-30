@@ -5,11 +5,12 @@
   "main": "lib/proxy-light.js",
   "private": true,
   "dependencies": {
-    "date-time-string": ">=0.0.4",
-    "log-manager": ">=0.0.5"
+    "date-time-string": ">=0.0.8",
+    "log-manager": ">=0.0.6"
   },
   "keywords": [
-    "proxy", "proxy-server"
+    "proxy",
+    "proxy-server"
   ],
   "author": "LightSpeedC",
   "license": "MIT",
@@ -19,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LightSpeedWorks/proxy-light"
+    "url": "LightSpeedWorks/proxy-light"
   },
   "scripts": {
     "test": "start-test"
